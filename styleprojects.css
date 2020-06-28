@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Voltaire', sans-serif;
+    box-sizing: border-box;
+
+}
+
+#wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color:dfe5fd;
+}
+body{text-align: center}
+
+header img {
+    width: 50%;
+    display: block;
+    padding: 10px;
+}
+
+nav {
+    background-color: 71A2DA;
+}
+
+a.menu {
+    display: inline-block;
+    width: 24%;
+    padding: 20px 30px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    transition:all
+}
+a.menu:hover{font-size:20px;
+background-color: 4384CF;
+}
+.active {
+    background-color: 4384CF;}
+
+    section#one{
+margin-top: 70px
+}
+    
+    
+    
+    
+footer {
+    font-size:10;
+    height:10px;
+    width: 1000px;
+    background-color:95BAE3;
+    color:black;
+     position: absolute;
+       top:2200px;
+}
+
